@@ -4,14 +4,7 @@
 This project focuses on text summarization using the Google Pegasus model, fine-tuned on the SAMSum dataset. The SAMSum dataset consists of a variety of conversational data and corresponding summaries, making it ideal for summarizing chat and dialogue-based text. With the help Pegasus, the resultant model is able generate concise and coherent summaries of dialogues, preserving the essential information and context.
 
 ## Demo
-```
-https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Recording%20summarizer.mp4?alt=media&token=abd09c8f-a564-4d5a-8423-3bff83990222
-```
-
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot%20II.png?alt=media&token=f7f095ec-fa60-4808-98aa-d32d672a744a)
-
-
-
+![image](assets/Screenshot.png)
 
 
 ## License
